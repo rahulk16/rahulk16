@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m Rahul Kumar
+- 👀 I’m interested in Software Development and Machine Learning
+- 🌱 I’m currently learning Natural Language Processing 
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me -> rahul.k16@iiits.in
 
 <!--
 **rahulk16/rahulk16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
