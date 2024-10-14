@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rahul Kumar
-- 👀 I’m interested in Software Development and Cybersecurity
-- 🌱 I’m currently preparing for Google Cybersecurity Professional Certification 
+- 👀 I’m interested in DevOps and Cybersecurity 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me -> rahul162rk@gmail.com
 
